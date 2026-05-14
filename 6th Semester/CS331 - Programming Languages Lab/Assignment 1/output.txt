@@ -1,0 +1,71 @@
+% Q1. QUERIES :-
+%
+% ?- flatten([a,b,[c,d],[],[[[e]]],f], L).
+% L = [a,b,c,d,e,f] 
+%
+% ?- flatten(a, [a]).
+% false
+%
+
+% ------------------------------------------------------------------------------------------------------------------
+
+% Q2. QUERIES :-
+%
+% ?- translate([3, 5, 1, 3], L).
+% L = [three, five, one, three].
+%
+% ?- translate([3, 5, 1, 3], [three,five,one,three]).
+% true.
+%
+
+% ------------------------------------------------------------------------------------------------------------------
+
+% Q3. QUERIES:-
+%
+% ?- write_canonical(joe was the head of the department).
+% was(joe,of(the(head),the(department)))
+% true.
+%
+% ?- Who was What.
+% Who = joe,
+% What = the head of the department.
+%
+% ?- joe was What.
+% What = the head of the department.
+%
+% ?- Who was the head of the department.
+% Who = joe.
+%
+% ?- joe was the head of What.
+% What = the department.
+%
+
+% ------------------------------------------------------------------------------------------------------------------
+
+% Q4. QUERIES :-
+%
+% ?- subsum([], 0, []).
+% true.
+%
+% ?- subsum( [1,2,7,3,6],6, PartList).
+% PartList = [1, 2, 3] ;
+% PartList = [6] .
+%
+
+% ------------------------------------------------------------------------------------------------------------------
+
+% Q5. QUERIES :-
+%
+% ?- between(6, 4, X).
+% false.
+% 
+% ?- between(3, 6, X).
+% X = 3 ;
+% X = 4 ;
+% X = 5 ;
+% X = 6 ;
+% false.
+%
+% ?- between(3, 6, 5).
+% true.
+% 

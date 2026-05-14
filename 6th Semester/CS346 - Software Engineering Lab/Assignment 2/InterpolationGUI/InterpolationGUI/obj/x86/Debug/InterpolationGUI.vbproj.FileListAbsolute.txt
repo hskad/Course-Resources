@@ -1,0 +1,9 @@
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\bin\Debug\InterpolationGUI.exe
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\bin\Debug\InterpolationGUI.pdb
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\bin\Debug\InterpolationGUI.xml
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\obj\x86\Debug\InterpolationGUI.Form1.resources
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\obj\x86\Debug\InterpolationGUI.Resources.resources
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\obj\x86\Debug\InterpolationGUI.vbproj.GenerateResource.Cache
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\obj\x86\Debug\InterpolationGUI.exe
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\obj\x86\Debug\InterpolationGUI.xml
+C:\Users\daksh\Desktop\Semester 6\CS346 - Software Engineering Lab\Assignment 2\InterpolationGUI\InterpolationGUI\obj\x86\Debug\InterpolationGUI.pdb
